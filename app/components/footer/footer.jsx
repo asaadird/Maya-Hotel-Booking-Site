@@ -12,7 +12,7 @@ export default function Footer() {
         <div className='col-md-4 d-flex flex-column mt-1 text-center'>
           <p className='mb-0'>
             <a
-              href='https://github.com/alexiscirmi/nextjs-hotel-booking'
+              href='#'
               target='_blank'
               rel='noreferrer'
               className='nav-link-footer pe-1'
